@@ -1,0 +1,30 @@
+body {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+.nav-bg-color {
+  background-color: black;
+  border-bottom: 4px orange solid;
+}
+.nav-bg-color a {
+  color: white;
+}
+.dropdown-menu {
+  background-color: black;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+#carouselExampleSlidesOnly {
+  border-bottom: 4px orange solid;
+}
+
+.footer {
+  background-color: black;
+  color: white;
+  border-top: 4px orange solid;
+}
+.footer a {
+  color: white;
+}
